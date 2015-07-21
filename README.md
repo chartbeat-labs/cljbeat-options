@@ -2,6 +2,8 @@
 Command line option parsing utilities.
 See `(doc cb.clbjeat.options/parse-opts)` for more details.
 
+This project is a part of [cljbeat](http://chartbeat-labs.github.io/cljbeat/).
+
 ## Installation
 With leiningen: `[com.chartbeat.cljbeat/options "1.0.0"]`
 
